@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/codemyui.com/wp-content/uploads/2017/09/rotate-pulsating-loading-animation.gif?fit=880%2C440&ssl=1)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm SUMESH S</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" >
